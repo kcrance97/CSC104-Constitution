@@ -1,0 +1,36 @@
+body{
+	background: tan;
+	color: #00FF00;
+}
+
+h1{
+	color: black;
+	font-family: brush script mt;
+	font-size: 2.5em; /* 40px/16=2.5em */
+	text-align: center;
+}
+
+h2{
+	color: maroon;
+	font-family: times new roman;
+	text-align: center;
+}
+
+h3{
+	color: maroon;
+	font-family: times new roman;
+	text-align: center;
+}
+
+p{
+	color: black;
+	font-family: arial;
+	max-width: 800px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:visited{
+	color: aqua;
+}
